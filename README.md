@@ -16,8 +16,8 @@ A high-performance CLI client for Microsoft Learn documentation using the Model 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/FastMCP.git
-   cd FastMCP
+   git clone https://github.com/alanburchill/Microsoft_Learn_MCP_FASTMCP.git
+   cd Microsoft_Learn_MCP_FASTMCP
    ```
 
 2. **Create and activate virtual environment**:
@@ -196,7 +196,7 @@ python mcp_client/microsoft_docs_mcp.py --q "python azure sdk" --k 3
 ## 🏗️ Project Structure
 
 ```
-FastMCP/
+Microsoft_Learn_MCP_FASTMCP/
 ├── README.md               # This comprehensive guide
 ├── requirements.txt        # Python dependencies
 ├── .gitignore             # Git ignore patterns
