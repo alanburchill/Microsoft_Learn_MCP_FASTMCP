@@ -540,16 +540,4 @@ Current version features:
 
 **Built with ❤️ for the Microsoft Learn community**
 
-Current version features:
-- ✅ Optimized Unicode handling with `codecs.decode()`
-- ✅ MCP JSON-RPC 2.0 specification compliance
-- ✅ Console formatting with `--raw` override
-- ✅ NDJSON streaming for large datasets
-- ✅ Comprehensive self-testing
-- ✅ Zero Unicode escape sequences in default output
-
----
-
-**Built with ❤️ for the Microsoft Learn community**
-
 *For questions, issues, or contributions, please visit the [GitHub repository](https://github.com/alanburchill/Microsoft_Learn_MCP_FASTMCP).*
