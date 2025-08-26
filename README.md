@@ -521,9 +521,9 @@ This project has been optimized for clarity and maintainability:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🏷️ Version
+**Built with ❤️ for the Microsoft Learn community**
 
 Current version features:
 - ✅ Optimized Unicode handling with `codecs.decode()`
@@ -537,4 +537,4 @@ Current version features:
 
 **Built with ❤️ for the Microsoft Learn community**
 
-*For questions, issues, or contributions, please visit the [GitHub repository](https://github.com/yourusername/FastMCP).*
+*For questions, issues, or contributions, please visit the [GitHub repository](https://github.com/alanburchill/Microsoft_Learn_MCP_FASTMCP).*
