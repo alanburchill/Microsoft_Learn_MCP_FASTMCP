@@ -523,6 +523,21 @@ This project has been optimized for clarity and maintainability:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## 🏷️ Version
+
+**Current Release: v1.0.0**
+
+Current version features:
+- ✅ Optimized Unicode handling with `codecs.decode()`
+- ✅ MCP JSON-RPC 2.0 specification compliance
+- ✅ Console formatting with `--raw` override
+- ✅ NDJSON streaming for large datasets
+- ✅ Comprehensive self-testing
+- ✅ Zero Unicode escape sequences in default output
+- ✅ Complete LLM framework integration support
+
+---
+
 **Built with ❤️ for the Microsoft Learn community**
 
 Current version features:
