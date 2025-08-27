@@ -72,3 +72,5 @@ Pipfile.lock
 # Application specific
 test_*.py
 *_test.py
+
+.github
